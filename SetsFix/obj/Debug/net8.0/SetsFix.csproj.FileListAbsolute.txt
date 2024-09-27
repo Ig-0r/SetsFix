@@ -1,0 +1,14 @@
+C:\Users\ntzzy\source\repos\SetsFix\SetsFix\bin\Debug\net8.0\SetsFix.exe
+C:\Users\ntzzy\source\repos\SetsFix\SetsFix\bin\Debug\net8.0\SetsFix.deps.json
+C:\Users\ntzzy\source\repos\SetsFix\SetsFix\bin\Debug\net8.0\SetsFix.runtimeconfig.json
+C:\Users\ntzzy\source\repos\SetsFix\SetsFix\bin\Debug\net8.0\SetsFix.dll
+C:\Users\ntzzy\source\repos\SetsFix\SetsFix\bin\Debug\net8.0\SetsFix.pdb
+C:\Users\ntzzy\source\repos\SetsFix\SetsFix\obj\Debug\net8.0\SetsFix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntzzy\source\repos\SetsFix\SetsFix\obj\Debug\net8.0\SetsFix.AssemblyInfoInputs.cache
+C:\Users\ntzzy\source\repos\SetsFix\SetsFix\obj\Debug\net8.0\SetsFix.AssemblyInfo.cs
+C:\Users\ntzzy\source\repos\SetsFix\SetsFix\obj\Debug\net8.0\SetsFix.csproj.CoreCompileInputs.cache
+C:\Users\ntzzy\source\repos\SetsFix\SetsFix\obj\Debug\net8.0\SetsFix.dll
+C:\Users\ntzzy\source\repos\SetsFix\SetsFix\obj\Debug\net8.0\refint\SetsFix.dll
+C:\Users\ntzzy\source\repos\SetsFix\SetsFix\obj\Debug\net8.0\SetsFix.pdb
+C:\Users\ntzzy\source\repos\SetsFix\SetsFix\obj\Debug\net8.0\SetsFix.genruntimeconfig.cache
+C:\Users\ntzzy\source\repos\SetsFix\SetsFix\obj\Debug\net8.0\ref\SetsFix.dll

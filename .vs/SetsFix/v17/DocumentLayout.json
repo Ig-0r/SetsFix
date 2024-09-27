@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ntzzy\\source\\repos\\SetsFix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD275DD-F8DE-4F37-888A-4D32B3C7055D}|SetsFix\\SetsFix.csproj|c:\\users\\ntzzy\\source\\repos\\setsfix\\setsfix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD275DD-F8DE-4F37-888A-4D32B3C7055D}|SetsFix\\SetsFix.csproj|solutionrelative:setsfix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ntzzy\\source\\repos\\SetsFix\\SetsFix\\Program.cs",
+              "RelativeDocumentMoniker": "SetsFix\\Program.cs",
+              "ToolTip": "C:\\Users\\ntzzy\\source\\repos\\SetsFix\\SetsFix\\Program.cs",
+              "RelativeToolTip": "SetsFix\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T01:10:40.114Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
